@@ -1,0 +1,11 @@
+> DFS
+Location : 0 2 4 6 1 3 5 
+Time : 0.003
+
+> BFS
+Location : 0 2 4 6 1 3 5 
+Time : 0.059
+
+> DFID
+Location : 0 2 4 6 1 3 5 
+Time : 0.001
