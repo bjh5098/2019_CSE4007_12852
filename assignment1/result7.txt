@@ -1,11 +1,11 @@
 > DFS
 Location : 0 2 4 6 1 3 5 
-Time : 0.003
+Time : 0.006
 
 > BFS
 Location : 0 2 4 6 1 3 5 
-Time : 0.059
+Time : 0.155
 
 > DFID
 Location : 0 2 4 6 1 3 5 
-Time : 0.001
+Time : 0.011

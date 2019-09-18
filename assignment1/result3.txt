@@ -1,10 +1,10 @@
 > DFS
 No solution
-Time : 0.0
+Time : 0.001
 
 > BFS
 No solution
-Time : 0.001
+Time : 0.002
 
 > DFID
 No solution

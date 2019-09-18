@@ -4,7 +4,7 @@ Time : 0.0
 
 > BFS
 No solution
-Time : 0.0
+Time : 0.002
 
 > DFID
 No solution
