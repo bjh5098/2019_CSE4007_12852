@@ -1,0 +1,3 @@
+>Hill Climbing
+2 6 1 7 4 0 3 5 
+Total Elapsed Time: 0.006
