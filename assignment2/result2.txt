@@ -1,0 +1,4 @@
+>Hill Climbing
+No solution
+Couldn't escape the Local Optimum
+Total Elapsed Time: 0.008
