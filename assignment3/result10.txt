@@ -1,0 +1,3 @@
+> Genetic Algorithm
+Location: 6 0 9 1 4 7 3 8 2 5 
+Total Elapsed Time: 1.217
