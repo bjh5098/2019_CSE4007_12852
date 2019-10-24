@@ -1,3 +1,5 @@
+#2015004575 Bae Jun Hyeok
+#CSE4007_Assignment4
 from z3 import *
 import time
 
