@@ -28,7 +28,7 @@ s.add(n_queens_c) # Constraints 입력
 
 if s.check() == sat: # 성공여부?
     m = s.model() # 연산
-    r = [m.evaluate(X[i]) for i in range(N)] # 결과값 r에 저장 
+    r = [m.evaluate(X[i]+1) for i in range(N)] # 결과값 r에 저장 => 하지만 0 ~ (N-1)이 아닌 1 ~ N 을 출력해야하므로 (value+1)
     print_matrix(r) # 결과값 출력
 
 print("elapsed time: ", time.time() - start, " sec") #종료시간 측정 및 출력
